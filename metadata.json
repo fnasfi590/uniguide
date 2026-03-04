@@ -1,0 +1,8 @@
+{
+  "name": "UniGuide",
+  "description": "Une plateforme de communication en temps réel reliant étudiants et professeurs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
